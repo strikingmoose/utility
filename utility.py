@@ -1,5 +1,6 @@
 import pandas as pd
 import pickle
+from IPython.display import display
 
 class Utility():
     # Define function to view columns and first 5 rows of dataset
